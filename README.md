@@ -43,6 +43,10 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+### `Tutorial Link`
+
+https://www.youtube.com/watch?v=Ke90Tje7VS0
+
 ### Code Splitting
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
